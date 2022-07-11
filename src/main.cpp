@@ -1,4 +1,3 @@
-// NÃO ALTERE ESSA LINHA
 #include "ListaProcessos.hpp"
 #include "Processo.hpp"
 #include "avaliacao_basica_escalonador.hpp"
