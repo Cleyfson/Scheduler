@@ -1,6 +1,6 @@
 # Scheduler
  
-A small project developed in C++ language, for the discipline of programming and development. The idea behind the code is to simulate a process scheduler, that is, the subsystem of an OS that chooses which process will be executed by the CPU. To do this, we use a basic Priority Queue using a Linked List.
+A small project developed in C++ language, for the discipline of programming and development at UFMG. The idea behind the code is to simulate a process scheduler, that is, the subsystem of an OS that chooses which process will be executed by the CPU. To do this, we use a basic Priority Queue using a Linked List.
 
 It is possible to simulate this process through the following input commands to the program <br />
 
